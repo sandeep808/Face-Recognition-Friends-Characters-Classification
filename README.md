@@ -8,7 +8,7 @@ It's purpose is to demonstrate the shortcomings of using a regular CNN in face r
 
 I've included the code to create our own face dataset from a video (Face Extraction from Video - Build Dataset.ipynb)
 
-and the code required to train and test your model.
+and the code required to train and test our model.
 
 Using a simple VGG based CNN for facial recognition is not a good idea, later on I'll be introducing more advanced methods to do this more effectively.
 
